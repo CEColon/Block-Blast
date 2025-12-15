@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BlockBlastDev:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BlockBlastDev_jar</output-path>
+    <root id="archive" name="BlockBlast.jar">
+      <element id="module-output" name="BlockBlastDev" />
+    </root>
+  </artifact>
+</component>
